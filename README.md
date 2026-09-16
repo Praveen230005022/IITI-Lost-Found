@@ -394,7 +394,6 @@ http://localhost:3000
 | `ADMIN_PASSWORD`   | Admin password             |
 | `JWT_SECRET`       | JWT signing secret         |
 
-**Never commit `.env` to GitHub.**
 
 ---
 
