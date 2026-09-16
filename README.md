@@ -1,8 +1,8 @@
-# 🔎 Lost & Found Portal
+#  Lost & Found Portal
 
 A full-stack web application for managing **lost and found items within a community or campus environment**. The platform allows users to report lost or found belongings, upload images, search approved reports, receive email notifications, and claim items. An administrator can review, approve, manage, and resolve submitted reports.
 
-## 🚀 Features
+##  Features
 
 ### User
 
@@ -30,7 +30,7 @@ A full-stack web application for managing **lost and found items within a commun
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -102,7 +102,7 @@ The frontend dependencies and scripts are defined in the project configuration. 
 
 ---
 
-## 🔄 Application Flow
+##  Application Flow
 
 ### 1. Item Submission
 
@@ -176,7 +176,7 @@ The claim information and resolution details are stored with the item.
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 lost-and-found/
@@ -240,7 +240,7 @@ lost-and-found/
 
 ---
 
-# 🔐 Authentication
+# Authentication
 
 Administrative access uses **JWT-based authentication**.
 
@@ -268,7 +268,7 @@ The application supports multiple images per report and stores the resulting ima
 
 ---
 
-# 📧 Email Notifications
+# Email Notifications
 
 The system uses **Nodemailer** to send automated emails.
 
@@ -282,7 +282,7 @@ When the system identifies a possible match, the relevant user receives an email
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 ## Prerequisites
 
@@ -379,7 +379,7 @@ http://localhost:3000
 
 ---
 
-# 🔑 Environment Variables
+#  Environment Variables
 
 | Variable           | Purpose                    |
 | ------------------ | -------------------------- |
@@ -397,7 +397,7 @@ http://localhost:3000
 
 ---
 
-# 🖥️ Running Locally
+# Running Locally
 
 Start the backend:
 
@@ -421,7 +421,7 @@ http://localhost:3000
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 Add screenshots of your application here:
 
@@ -453,7 +453,7 @@ Recommended screenshots:
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 * Provide a centralized platform for lost and found reports
 * Simplify reporting of lost and found belongings
@@ -465,7 +465,7 @@ Recommended screenshots:
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 * AI-powered image matching
 * Semantic text-based matching
@@ -479,7 +479,7 @@ Recommended screenshots:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Praveen Kumar**
 
@@ -488,13 +488,13 @@ Indian Institute of Technology Indore
 
 ---
 
-# 📄 License
+#  License
 
 This project currently uses the **ISC License** for the backend package.
 
 ---
 
-## ⭐ Acknowledgement
+## Acknowledgement
 
 Built as a full-stack web application to provide a practical and centralized solution for managing lost and found items.
 
